@@ -24,11 +24,11 @@ It will be running ZMK
 Planned to have a 3d-printed case and acrylic case.
 
 ## Progress
-[x] Design schematic - Done 2/10/2024
-[x] Name + Logo - Done 2/5/2024
-[x] Design PCB - Done 2/10/2024
-[x] Order PCB + Parts - Done 2/12/2024
-[ ] Construct PCB
-[ ] Port to ZMK
-[ ] Design 3d case
-[ ] Design acrylic case
+- [x] Design schematic - Done 2/10/2024
+- [x] Name + Logo - Done 2/5/2024
+- [x] Design PCB - Done 2/10/2024
+- [x] Order PCB + Parts - Done 2/12/2024
+- [ ] Construct PCB
+- [ ] Port to ZMK
+- [ ] Design 3d case
+- [ ] Design acrylic case
