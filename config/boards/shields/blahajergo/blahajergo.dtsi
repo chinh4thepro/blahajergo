@@ -5,7 +5,7 @@
     chosen {
         zephyr,display = &oled;
 	zmk,matrix-transform = &default_transform;
-    }
+    };
 
     default_transform: keymap_transform_0 {
         compatible = "zmk,matrix-transform";
