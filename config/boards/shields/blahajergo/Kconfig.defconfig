@@ -25,7 +25,7 @@ endif # display
 
 if LVGL # Light and Versatile Embedded Graphics Library
 
-config LV_Z_VDB_size
+config LV_Z_VDB_SIZE
     default 64
 
 config LV_DPI_DEF
