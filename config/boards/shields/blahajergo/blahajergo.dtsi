@@ -3,7 +3,7 @@
 / {
 
     chosen {
-        zephyr,display = &oled
+        zephyr,display = &oled;
 	zmk,matrix-transform = &default_transform;
     }
 
