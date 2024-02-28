@@ -1,4 +1,4 @@
-# blahajergo
+![blahajergo vertical](https://github.com/chinh4thepro/blahajergo/blob/main/images/Vertical.png)
 A split ortholinear keyboard named after our favorite shark.
 
 ## Hardware
@@ -18,7 +18,8 @@ Parts list:
 - 2x SMD 6x6 4-pin buttons
 
 ## Software
-It will be running ZMK
+Keymap based/inspired by FlatFootFox's (ImStuBTW) [TypeBoy MKII](https://github.com/ImStuBTW/typeboy_mkii)
+Config can be found [here](https://github.com/chinh4thepro/zmk-config-blahajergo/tree/master)
 
 ## Design
 Planned to have a 3d-printed case and acrylic case.
