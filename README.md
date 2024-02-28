@@ -25,7 +25,7 @@ Config can be found [here](https://github.com/chinh4thepro/zmk-config-blahajergo
 ## Design
 Planned to have a 3d-printed case and acrylic case.
 
-Image in courtesy of [Sheepy0125](https://github.com/sheepy0125)
+Traced blahaj image in courtesy of [Sheepy0125](https://github.com/sheepy0125)
 
 ## Progress
 - [x] Design schematic - Done 2/10/2024
