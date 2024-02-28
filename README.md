@@ -14,7 +14,7 @@ Parts list:
 - 2x 0.91in 128x32(SSD1306) OLED display (sockets too)
 - 2x 110mAh lithium batteries(301230) with PH 2.00mm connectors
 - 2x Alps miniature SPDT switches
-- 2x JST PH 2.00mm battery jacks
+- 2x JST PH 2.00mm battery connectors
 - 2x Panasonic EVQPUC buttons
 
 ## Software
