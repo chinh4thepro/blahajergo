@@ -1,3 +1,4 @@
 # KICAD stuffs
 KiCAD/*.lck
 KiCAD/fp*
+KiCAD/*backup*
