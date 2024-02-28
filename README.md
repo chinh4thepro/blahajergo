@@ -1,5 +1,4 @@
 ![blahajergo vertical](https://github.com/chinh4thepro/blahajergo/blob/main/images/Vertical.png)
-A split ortholinear keyboard named after our favorite shark.
 
 ## Hardware
 Uses a Nice!Nano V2 (or any compatible microcontroller) as the MCU
