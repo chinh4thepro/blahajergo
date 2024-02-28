@@ -15,7 +15,7 @@ Parts list:
 - 2x 110mAh lithium batteries(301230) with PH 2.00mm connectors
 - 2x Alps miniature SPDT switches
 - 2x JST PH 2.00mm battery jacks
-- 2x SMD 6x6 4-pin buttons
+- 2x Panasonic EVQPUC buttons
 
 ## Software
 Keymap based/inspired by FlatFootFox's (ImStuBTW) [TypeBoy MKII](https://github.com/ImStuBTW/typeboy_mkii)
