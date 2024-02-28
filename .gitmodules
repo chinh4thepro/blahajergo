@@ -1,0 +1,3 @@
+[submodule "zmk-config-blahajergo"]
+	path = zmk-config-blahajergo
+	url = https://github.com/chinh4thepro/zmk-config-blahajergo
