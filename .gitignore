@@ -2,3 +2,4 @@
 KiCAD/*.lck
 KiCAD/fp*
 KiCAD/*backup*
+KiCAD/*.log
