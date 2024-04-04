@@ -1,0 +1,24 @@
+(footprint "OLED_headers" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "OLED1" (at 0 0 -90) (layer "F.SilkS") hide
+      (effects (font (size 1.27 1.27) (thickness 0.15)))
+    (tstamp bab7d105-47d3-41cb-a8d2-cacac32a0a07)
+  )
+  (fp_text value "OLED" (at 0 -7.3 -90) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp befa9f83-f7c1-4e6c-8b11-73bcbdef51a3)
+  )
+  (pad "1" thru_hole rect (at 0 3.81 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f66775de-752e-4c69-b37e-5565bb4047f9))
+  (pad "2" thru_hole oval (at 0 1.27 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp ba7929ac-4d9a-47bb-a75c-46ec8f28ff3e))
+  (pad "3" thru_hole oval (at 0 -1.27 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp bd4436d2-72c6-4e73-8b9a-3f406981bf68))
+  (pad "4" thru_hole oval (at 0 -3.81 270) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 7e95d716-72fe-4ded-a2fe-d81ffed6ea7b))
+  (group "" (id a1022f88-36e5-4e03-ab07-1fe2ded6a851)
+    (members
+      7e95d716-72fe-4ded-a2fe-d81ffed6ea7b
+      ba7929ac-4d9a-47bb-a75c-46ec8f28ff3e
+      bd4436d2-72c6-4e73-8b9a-3f406981bf68
+      f66775de-752e-4c69-b37e-5565bb4047f9
+    )
+  )
+)

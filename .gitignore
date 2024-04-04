@@ -1,5 +1,9 @@
 # KICAD stuffs
 KiCAD/*.lck
 KiCAD/fp*
+<<<<<<< HEAD
 KiCAD/*backup*
 KiCAD/*.log
+=======
+KiCAD/*backups
+>>>>>>> dae19f3 (kicad stuff)
