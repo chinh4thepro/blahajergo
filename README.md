@@ -30,7 +30,9 @@ Traced blahaj image in courtesy of [Sheepy0125](https://github.com/sheepy0125)
 - [x] Design schematic - Done 2/10/2024
 - [x] Name + Logo - Done 2/5/2024
 - [x] Design PCB - Done 2/10/2024
+- [x] Redesign PCB - Done 5/08/2024
 - [x] Order PCB + Parts - Done 2/12/2024
+- [ ] Reorder PCB
 - [ ] Construct PCB
 - [ ] Port to ZMK
 - [ ] Design 3d case
