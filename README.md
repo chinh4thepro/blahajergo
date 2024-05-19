@@ -6,12 +6,12 @@ Uses a Nice!Nano V2 (or any compatible microcontroller) as the MCU
 Parts list:
 - 56x SOD-123 (supports through holes too) 1N4148W diodes
 - 56x Kailh 1350 Hotswap Sockets
-- 56x Kailh choc v1 switches
+- 56x Kailh choc v1 or v2 switches (v1's may be a little loose)
 - 54x 1u choc keycaps
 - 2x 1.5u choc keycaps
 - 2x Nice!Nano V2 (sockets too)
-- 2x 0.91in 128x32(SSD1306) OLED display (sockets too)
-- 2x 110mAh lithium batteries(301230) with PH 2.00mm connectors
+- 2x 0.91in 128x32 SSD1306 OLED displays (sockets too)
+- 2x 110mAh 301230 lithium batteries with PH 2.00mm connectors
 - 2x Alps miniature SPDT switches
 - 2x JST PH 2.00mm battery connectors
 - 2x Panasonic EVQPUC buttons
