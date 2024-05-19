@@ -52,7 +52,9 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "unconnected_items|88910613|115680358|a7f99013-2849-4718-907f-5e4b1a013b70|f061c26d-0440-4753-8de6-21e1360bd34e"
+      ],
       "meta": {
         "version": 2
       },
@@ -89,7 +91,7 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "ignore",
         "silk_overlap": "ignore",
         "skew_out_of_range": "error",
